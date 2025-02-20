@@ -1,6 +1,6 @@
 package com.shu;
 
-public class Strings {
+public class ReverseString{
 	
 	public static void main(String args[]) {
 		
